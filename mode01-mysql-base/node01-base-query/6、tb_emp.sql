@@ -1,0 +1,6 @@
+CREATE TABLE `tb_emp` (
+  `id` int(11) NOT NULL AUTO_INCREMENT COMMENT '主键ID',
+  `empName` varchar(20) DEFAULT NULL COMMENT '员工名称',
+  `deptId` int(11) DEFAULT '0' COMMENT '部门ID',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=8 DEFAULT CHARSET=utf8;
