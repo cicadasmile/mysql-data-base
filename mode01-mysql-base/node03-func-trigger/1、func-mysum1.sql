@@ -1,0 +1,2 @@
+CREATE FUNCTION mysum1 () RETURNS INT RETURN (2+3)*2;
+SELECT mysum1 () ;

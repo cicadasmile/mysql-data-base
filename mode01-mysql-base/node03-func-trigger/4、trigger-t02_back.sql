@@ -1,0 +1,4 @@
+CREATE TABLE t02_back (
+	id int(11) NOT NULL PRIMARY KEY COMMENT '主键ID',
+  user_name varchar(20) DEFAULT NULL COMMENT '用户名称'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT '用户备份';
