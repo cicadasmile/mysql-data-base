@@ -17,6 +17,7 @@
 |序号|文章标题|
 |:---:|:---|
 |01|[MySQL进阶：基于多个维度，分析服务器性能](https://mp.weixin.qq.com/s/tgI5W5vZYtFG8OBDWfEkNw)|
+|02|[MySQL进阶：索引体系划分，B-Tree结构说明](https://mp.weixin.qq.com/s/VIFzBvSAangu0qa7k8C6dg)|
 
 持续更新中...
 
